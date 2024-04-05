@@ -1,4 +1,6 @@
 Control Robot Arm with mind,  ESP32 and NeuroSky using Python
+
+![Robot Arm](robotarm.jpg)
 This repository contains Python code to control a robot arm using an ESP32 microcontroller and NeuroSky EEG headset. The project involves two components:
 
 ESP32 Code: This part of the project involves programming an ESP32 microcontroller to receive commands from a Python script and control the servo motors of a robot arm accordingly.
