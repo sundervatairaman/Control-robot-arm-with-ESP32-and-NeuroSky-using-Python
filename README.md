@@ -27,7 +27,7 @@ Python 3.x installed on your computer with the required libraries
 Getting Started
 Clone this repository to your local machine:
 
-bash
+
 Copy code
 git clone https://github.com/your-username/robot-arm-control.git
 Upload the esp32_code directory to your ESP32 microcontroller using the Arduino IDE or similar software.
@@ -38,7 +38,7 @@ Connect the NeuroSky EEG headset to your computer via Bluetooth .
 
 Run the Python script neurosky_control.py:
 
-bash
+
 Copy code
 python neurosky_control.py
 License
