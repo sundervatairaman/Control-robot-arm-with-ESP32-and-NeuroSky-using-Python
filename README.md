@@ -39,6 +39,8 @@ Install the required Python libraries:
 Connect the NeuroSky EEG headset to your computer via Bluetooth .
 
 Run the Python script neurosky_control.py:
+<meta name="google-site-verification" content="OrGNIdZ9qKwulDTlSvq2bASuh3RwQnAniYECgqxkgdE" />
+
 
 
 Copy code
